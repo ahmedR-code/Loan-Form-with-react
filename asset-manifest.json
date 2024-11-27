@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Loan-Application-Form-whith-/static/css/main.fd9d8494.css",
-    "main.js": "/Loan-Application-Form-whith-/static/js/main.8f2dec53.js",
-    "static/js/453.430cf63b.chunk.js": "/Loan-Application-Form-whith-/static/js/453.430cf63b.chunk.js",
-    "index.html": "/Loan-Application-Form-whith-/index.html",
-    "main.fd9d8494.css.map": "/Loan-Application-Form-whith-/static/css/main.fd9d8494.css.map",
-    "main.8f2dec53.js.map": "/Loan-Application-Form-whith-/static/js/main.8f2dec53.js.map",
-    "453.430cf63b.chunk.js.map": "/Loan-Application-Form-whith-/static/js/453.430cf63b.chunk.js.map"
+    "main.css": "/Loan-Form-with-react/static/css/main.fd9d8494.css",
+    "main.js": "/Loan-Form-with-react/static/js/main.0d931773.js",
+    "static/js/453.430cf63b.chunk.js": "/Loan-Form-with-react/static/js/453.430cf63b.chunk.js",
+    "index.html": "/Loan-Form-with-react/index.html",
+    "main.fd9d8494.css.map": "/Loan-Form-with-react/static/css/main.fd9d8494.css.map",
+    "main.0d931773.js.map": "/Loan-Form-with-react/static/js/main.0d931773.js.map",
+    "453.430cf63b.chunk.js.map": "/Loan-Form-with-react/static/js/453.430cf63b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd9d8494.css",
-    "static/js/main.8f2dec53.js"
+    "static/js/main.0d931773.js"
   ]
 }

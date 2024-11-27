@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Loan-Application-Form-whith-/static/css/main.fd9d8494.css",
+    "main.js": "/Loan-Application-Form-whith-/static/js/main.8f2dec53.js",
+    "static/js/453.430cf63b.chunk.js": "/Loan-Application-Form-whith-/static/js/453.430cf63b.chunk.js",
+    "index.html": "/Loan-Application-Form-whith-/index.html",
+    "main.fd9d8494.css.map": "/Loan-Application-Form-whith-/static/css/main.fd9d8494.css.map",
+    "main.8f2dec53.js.map": "/Loan-Application-Form-whith-/static/js/main.8f2dec53.js.map",
+    "453.430cf63b.chunk.js.map": "/Loan-Application-Form-whith-/static/js/453.430cf63b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd9d8494.css",
+    "static/js/main.8f2dec53.js"
+  ]
+}
